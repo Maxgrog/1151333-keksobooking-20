@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Максим Пискунов](https://up.htmlacademy.ru/javascript/20/user/1151333).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Авдеев](https://htmlacademy.ru/profile/avdeev1van).
 
 ---
 
